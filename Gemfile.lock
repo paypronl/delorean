@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    delorean (2.1.0)
+    delorean (2.1.1)
       chronic
 
 GEM
